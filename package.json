@@ -1,0 +1,22 @@
+{
+  "name": "findadoc",
+  "version": "1.0.0",
+  "description": "Doctor directory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Traversy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cassandra-driver": "*",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "mysql2": "^1.6.4"
+  }
+}
